@@ -14,6 +14,21 @@ h1 {
     text-align: center;
 }
 
+.green {
+    background-color: green;
+    color: white;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.blue {
+    background-color: cornflowerblue;
+    color: white;
+}
+
 .menu-item1,
 .menu-item2,
 .menu-item3 {
@@ -29,7 +44,6 @@ h1 {
     border-bottom: 1px solid black;
     padding: 10px;
     float: right;
-    background-color: aliceblue;
 }
 
 p {
